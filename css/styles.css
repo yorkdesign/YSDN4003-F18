@@ -184,6 +184,23 @@ footer h1 {
   font-style: italic;
 }
 
+section ul {
+  padding-left: 45px;
+  
+}
+
+ul .list {
+  list-style: disc;
+}
+
+@media screen and (min-width: 741px) and (max-width: 1024px)  {
+
+    article {
+      margin-left: 21%;
+      padding: 13px;
+    }
+
+}
 
 
 @media (max-width: 740px) {
